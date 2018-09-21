@@ -1,0 +1,22 @@
+_repo: Erziehung-und-Unterricht-der-Blinden_53550
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zech, Friedrich
+    gutenberg_agent_id: '47431'
+    url: http://www.gutenberg.org/2009/agents/47431
+description: ''
+gutenberg_issued: '2016-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53550'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Blind -- Education'
+- GITenberg
+title: Erziehung und Unterricht der Blinden
+url: http://www.gutenberg.org/ebooks/53550
