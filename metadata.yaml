@@ -1,11 +1,16 @@
 _repo: Erziehung-und-Unterricht-der-Blinden_53550
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53550-h/images/cover.jpg
 creator:
   author:
     agent_name: Zech, Friedrich
     gutenberg_agent_id: '47431'
     url: http://www.gutenberg.org/2009/agents/47431
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53550#Erziehung-und-Unterricht-der-Blinden
 gutenberg_issued: '2016-11-18'
 gutenberg_type: Text
 identifiers:
